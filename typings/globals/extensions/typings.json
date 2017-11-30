@@ -1,0 +1,8 @@
+{
+  "resolution": "main",
+  "tree": {
+    "src": "https://raw.githubusercontent.com/edsilv/extensions/v0.2.0/dist/extensions.d.ts",
+    "raw": "github:edsilv/extensions/dist/extensions.d.ts#v0.2.0",
+    "typings": "https://raw.githubusercontent.com/edsilv/extensions/v0.2.0/dist/extensions.d.ts"
+  }
+}

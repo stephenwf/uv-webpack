@@ -1,0 +1,8 @@
+{
+  "resolution": "main",
+  "tree": {
+    "src": "https://raw.githubusercontent.com/iiif-commons/iiif-metadata-component/v1.1.0/dist/iiif-metadata-component.d.ts",
+    "raw": "github:iiif-commons/iiif-metadata-component/dist/iiif-metadata-component.d.ts#v1.1.0",
+    "typings": "https://raw.githubusercontent.com/iiif-commons/iiif-metadata-component/v1.1.0/dist/iiif-metadata-component.d.ts"
+  }
+}

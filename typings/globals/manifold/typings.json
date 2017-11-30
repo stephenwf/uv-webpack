@@ -1,0 +1,8 @@
+{
+  "resolution": "main",
+  "tree": {
+    "src": "https://raw.githubusercontent.com/iiif-commons/manifold/v1.2.11/dist/manifold.d.ts",
+    "raw": "github:iiif-commons/manifold/dist/manifold.d.ts#v1.2.11",
+    "typings": "https://raw.githubusercontent.com/iiif-commons/manifold/v1.2.11/dist/manifold.d.ts"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "resolution": "main",
+  "tree": {
+    "src": "https://raw.githubusercontent.com/edsilv/virtex/v0.3.3/dist/virtex.d.ts",
+    "raw": "github:edsilv/virtex/dist/virtex.d.ts#v0.3.3",
+    "typings": "https://raw.githubusercontent.com/edsilv/virtex/v0.3.3/dist/virtex.d.ts"
+  }
+}

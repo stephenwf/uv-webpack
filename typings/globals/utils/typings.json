@@ -1,0 +1,8 @@
+{
+  "resolution": "main",
+  "tree": {
+    "src": "https://raw.githubusercontent.com/edsilv/utils/v0.1.0/dist/utils.d.ts",
+    "raw": "github:edsilv/utils/dist/utils.d.ts#v0.1.0",
+    "typings": "https://raw.githubusercontent.com/edsilv/utils/v0.1.0/dist/utils.d.ts"
+  }
+}

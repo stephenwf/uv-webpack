@@ -1,0 +1,8 @@
+{
+  "resolution": "main",
+  "tree": {
+    "src": "https://raw.githubusercontent.com/iiif-commons/iiif-gallery-component/v1.1.0/dist/iiif-gallery-component.d.ts",
+    "raw": "github:iiif-commons/iiif-gallery-component/dist/iiif-gallery-component.d.ts#v1.1.0",
+    "typings": "https://raw.githubusercontent.com/iiif-commons/iiif-gallery-component/v1.1.0/dist/iiif-gallery-component.d.ts"
+  }
+}

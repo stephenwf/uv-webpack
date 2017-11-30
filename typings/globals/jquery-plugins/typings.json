@@ -1,0 +1,8 @@
+{
+  "resolution": "main",
+  "tree": {
+    "src": "https://raw.githubusercontent.com/edsilv/jquery-plugins/v0.1.0/dist/jquery-plugins.d.ts",
+    "raw": "github:edsilv/jquery-plugins/dist/jquery-plugins.d.ts#v0.1.0",
+    "typings": "https://raw.githubusercontent.com/edsilv/jquery-plugins/v0.1.0/dist/jquery-plugins.d.ts"
+  }
+}

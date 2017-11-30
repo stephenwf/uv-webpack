@@ -1,0 +1,8 @@
+{
+  "resolution": "main",
+  "tree": {
+    "src": "https://raw.githubusercontent.com/edsilv/key-codes/v0.0.6/dist/key-codes.d.ts",
+    "raw": "github:edsilv/key-codes/dist/key-codes.d.ts#v0.0.6",
+    "typings": "https://raw.githubusercontent.com/edsilv/key-codes/v0.0.6/dist/key-codes.d.ts"
+  }
+}
